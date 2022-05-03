@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:letschat/widgets/tabbutton_widget.dart';
-import 'package:letschat/components/colors.dart';
+import 'package:chat_app/widgets/tabbutton_widget.dart';
+import 'package:chat_app/components/colors.dart';
 import 'package:page_transition/page_transition.dart';
 import 'chat_screen.dart';
 

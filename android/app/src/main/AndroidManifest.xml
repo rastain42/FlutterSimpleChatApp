@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.arunbalaji.letschat">
+    package="com.arunbalaji.chat_app">
    <application
         android:label="Let's Chat"
         android:icon="@mipmap/ic_launcher">

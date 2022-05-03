@@ -1,5 +1,5 @@
-name: letschat
-description: A simple group chat application using flutter.
+name: chat_app
+description: simplechatapp.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 

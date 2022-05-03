@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:letschat/screens/login_screen.dart';
-import 'package:letschat/screens/registration_screen.dart';
-import 'package:letschat/components/colors.dart';
+import 'package:chat_app/screens/login_screen.dart';
+import 'package:chat_app/screens/registration_screen.dart';
+import 'package:chat_app/components/colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:page_transition/page_transition.dart';
-import 'package:letschat/widgets/tabbutton_widget.dart';
+import 'package:chat_app/widgets/tabbutton_widget.dart';
 
 class WelcomeScreen extends StatefulWidget {
   static String id = 'welcome_screen';
