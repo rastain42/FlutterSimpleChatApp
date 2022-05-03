@@ -24,23 +24,23 @@ flutter run
 
 ## diapo 
 
-### notre objectif
+### notre objectif - romain
 
 application de chat, gestion des smileys et notifs avec firebase
 
-### nos problèmes
+### nos problèmes - graig
 
 on a manqué d'organisation et on a mal réparti notre temps ce qui a fait qu'on est pas arrivé au bout de nos features
 
-### ce qu'on a c'est
+### ce qu'on a c'est - romain
 
 une authentification aux petits oignons, et un salon de chat global pour toute l'app, et un logout
 
-### le rendu final
+### le rendu final - romain
 
 démo
 
-### ce qu'on a appris
+### ce qu'on a appris   - graig
 
 gérer une application flutter avec firebase auth, firestore.
 flutter c'est super
